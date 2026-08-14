@@ -1,9 +1,9 @@
-# Inventory Assistant Homework Assignment
+# Inventory Assistant Assignment
 
 This AI agent checks for stock levels, it flags low inventory, calculates reorder amounts, and can place a purchase order after requirements are met.
 
 
-I am building this project with a hand-writtena agent loop on top of DeepSeek's chat completions API. I am also using SQLite database consisting of synthetic data
+I am building this project with a handwritten agent loop on top of DeepSeek's chat completions API. I am also using SQLite database consisting of synthetic data
 
 ---
 
